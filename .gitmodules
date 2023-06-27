@@ -1,0 +1,3 @@
+[submodule "estacao-meteorologica-idf"]
+	path = estacao-meteorologica-idf
+	url = git@github.com:MatheusReichert/estacao-meteorologica-idf.git
