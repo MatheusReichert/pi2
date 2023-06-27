@@ -1,0 +1,36 @@
+worker/HELP.md
+worker/target/
+worker/!.mvn/wrapper/maven-wrapper.jar
+worker/src/main/**/target/
+worker/src/test/**/target/
+
+### STS ###
+worker/.apt_generated
+worker/.classpath
+worker/.factorypath
+worker/.project
+worker/.settings
+worker/.springBeans
+worker/.sts4-cache
+
+### IntelliJ IDEA ###
+worker/.idea
+worker/*.iws
+worker/*.iml
+worker/*.ipr
+
+### NetBeans ###
+worker/nbproject/private/
+worker/nbbuild/
+worker/dist/
+worker/nbdist/
+worker/.nb-gradle/
+worker/build/
+worker/src/main/**/build/
+worker/src/test/**/build/
+
+### VS Code ###
+worker/.vscode/
+
+
+worker/src/main/resources
